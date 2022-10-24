@@ -86,6 +86,7 @@ hr {
 	font-size: 26px;
 	font-weight: 600;
 	color: #eee;
+	
 }
 #menu.navbar-default .navbar-nav > li > a {
 	text-transform: uppercase;
@@ -201,11 +202,13 @@ header .intro-text {
 	padding-top: 320px;
 	padding-bottom: 200px;
 	text-align: center;
+	
 }
 /* About Section */
 #about {
 	padding: 120px 0 80px 0;
 	background: #f6f6f6;
+	
 }
 #about h3 {
 	font-size: 22px;
@@ -229,6 +232,8 @@ header .intro-text {
 	display: block;
 	width: 100%;
 	height: auto;
+	
+
 }
 #about .about-text, #about .about-desc {
 	margin-bottom: 40px;
